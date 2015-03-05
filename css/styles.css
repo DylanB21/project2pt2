@@ -1,0 +1,81 @@
+body {
+	background-image: url(../images/mars.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	font-family: "Museo-Sans-500", sans-serif;
+	color: white;
+	background-color: black;
+	margin-right: 1%;
+}
+
+p {
+	line-height: 1.5;
+	font-size: x-large;
+	padding: 0 5% 0 5%;
+}
+
+h1 {
+	margin: 0;
+	text-align: center;
+	font-size: 75px;
+	padding-top: 3%;
+}
+
+h2 {
+	padding: 0 0 0 2%;
+}
+
+span {
+	font-family: "Museo-Sans-500Italic", sans-serif;
+	font-style: oblique;
+	font-style: italic;
+}
+
+blockquote {
+	width: 20%;
+	border-top: 7px solid white;
+	border-bottom: 7px solid white;
+}
+
+form {
+	margin-left: 5%;
+	margin-right: 5%;
+	background-color: rgba(89, 89, 89, 0.5);
+	padding: 1%;
+}
+
+fieldset {
+	border: none;
+	padding-top: 1%;
+}
+
+h2#poll {
+	font-weight: lighter;
+}
+
+div#image {
+	margin: 2% 2% 2% 2%;
+	padding: 0 0 1% 0;
+	width: 20%;
+	border-bottom: 7px solid white;
+}
+
+p#quote {
+	padding: 1% 0 1% 0;
+}
+
+p#caption {
+	line-hight: 0;
+}
+
+span#smaller {
+	font-size: 50px;
+}
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
